@@ -1,6 +1,3 @@
-# [ListList](https://listlist.net/)
+# [ListList](https://listlist.net/) has been shut down
 
-A curated list of [the awesome lists](https://github.com/sindresorhus/awesome) which you can subscribe to via RSS and email.
-
-This repository serves as a discussion board.
-So if you have any questions or suggestions about ListList feel free to [open a new PR](https://github.com/maltsev/listlist/issues/new) or contact me directly at [hi@listlist.net](mailto:hi@listlist.net).
+More info on [the main page](https://listlist.net/).
